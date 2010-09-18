@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<layout credits="Project credits..." formatVersion="2.0" height="150 mm" projectName="New Project" width="250 mm">
+<component name="Stripboard">
+<properties>
+<property dataType="text" name="Name" value="Board"/>
+<property dataType="text" name="Part#" value=""/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="no" x="480" y="112"/>
+<point condition="1" sticky="no" x="704" y="352"/>
+</points>
+</component>
+<component name="Copper Trace">
+<properties>
+<property dataType="text" name="Name" value=""/>
+<property dataType="text" name="Thickness" value="0.8 mm"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="yes" x="112" y="112"/>
+<point condition="1" sticky="yes" x="112" y="112"/>
+</points>
+</component>
+<component name="Copper Trace">
+<properties>
+<property dataType="text" name="Name" value=""/>
+<property dataType="text" name="Thickness" value="0.8 mm"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="yes" x="640" y="208"/>
+<point condition="1" sticky="yes" x="640" y="224"/>
+</points>
+</component>
+<component name="Copper Trace">
+<properties>
+<property dataType="text" name="Name" value=""/>
+<property dataType="text" name="Thickness" value="0.8 mm"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="yes" x="544" y="288"/>
+<point condition="1" sticky="yes" x="544" y="304"/>
+</points>
+</component>
+<component name="Copper Trace">
+<properties>
+<property dataType="text" name="Name" value=""/>
+<property dataType="text" name="Thickness" value="0.8 mm"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="yes" x="512" y="144"/>
+<point condition="1" sticky="yes" x="512" y="192"/>
+</points>
+</component>
+<component name="Copper Trace">
+<properties>
+<property dataType="text" name="Name" value=""/>
+<property dataType="text" name="Thickness" value="0.8 mm"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="yes" x="560" y="176"/>
+<point condition="1" sticky="yes" x="560" y="160"/>
+</points>
+</component>
+<component name="Copper Trace">
+<properties>
+<property dataType="text" name="Name" value=""/>
+<property dataType="text" name="Thickness" value="0.8 mm"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="yes" x="512" y="320"/>
+<point condition="1" sticky="yes" x="512" y="272"/>
+</points>
+</component>
+<component name="Rectangle">
+<properties>
+<property dataType="color" name="Color" value="FFFFFF"/>
+<property dataType="text" name="Radius" value="5 mm"/>
+<property dataType="slider" name="Transparency" value="0.5"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="selected" sticky="no" x="640" y="128"/>
+<point condition="selected" sticky="no" x="672" y="208"/>
+</points>
+</component>
+<component name="Rectangle">
+<properties>
+<property dataType="color" name="Color" value="FFFFFF"/>
+<property dataType="text" name="Radius" value="5 mm"/>
+<property dataType="slider" name="Transparency" value="0.49"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="selected" sticky="no" x="640" y="288"/>
+<point condition="selected" sticky="no" x="672" y="336"/>
+</points>
+</component>
+<component name="Rectangle">
+<properties>
+<property dataType="color" name="Color" value="FFFFFF"/>
+<property dataType="text" name="Radius" value="5 mm"/>
+<property dataType="slider" name="Transparency" value="0.51"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="selected" sticky="no" x="496" y="192"/>
+<point condition="selected" sticky="no" x="528" y="272"/>
+</points>
+</component>
+<component name="Eyelet">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Part#" value=""/>
+<property dataType="text" name="Size" value="3*mm"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="yes" x="496" y="128"/>
+</points>
+</component>
+<component name="Eyelet">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Part#" value=""/>
+<property dataType="text" name="Size" value="3*mm"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="yes" x="496" y="336"/>
+</points>
+</component>
+<component name="Eyelet">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Part#" value=""/>
+<property dataType="text" name="Size" value="3*mm"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="yes" x="688" y="128"/>
+</points>
+</component>
+<component name="Eyelet">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Part#" value=""/>
+<property dataType="text" name="Size" value="3*mm"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="yes" x="688" y="336"/>
+</points>
+</component>
+<component name="Copper Trace">
+<properties>
+<property dataType="text" name="Name" value=""/>
+<property dataType="text" name="Thickness" value="0.8 mm"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="yes" x="688" y="320"/>
+<point condition="1" sticky="yes" x="688" y="288"/>
+</points>
+</component>
+<component name="Copper Trace">
+<properties>
+<property dataType="text" name="Name" value=""/>
+<property dataType="text" name="Thickness" value="0.8 mm"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="yes" x="688" y="240"/>
+<point condition="1" sticky="yes" x="688" y="272"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="528" y="176"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="528" y="160"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="576" y="288"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="576" y="272"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="576" y="256"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="576" y="240"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="576" y="224"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="576" y="208"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="576" y="192"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="576" y="176"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="672" y="304"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="528" y="304"/>
+</points>
+</component>
+<component name="Trace Cut">
+<properties>
+<property dataType="text" name="Name" value="Q"/>
+<property dataType="text" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="528" y="288"/>
+</points>
+</component>
+<component name="IC DIL">
+<properties>
+<property dataType="text" name="Name" value="Pololu"/>
+<property dataType="text" name="Value" value=""/>
+<property dataType="text" name="Part#" value=""/>
+<property dataType="text" name="Pins" value="16"/>
+<property dataType="text" name="Angle" value="0 degree"/>
+<property dataType="text" name="Spacing" value="0.5 inch"/>
+<property dataType="slider" name="Transparency" value="0.45"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="544" y="176"/>
+</points>
+</component>
+<component name="Resistor">
+<properties>
+<property dataType="text" name="Name" value="R1"/>
+<property dataType="text" name="Value" value=""/>
+<property dataType="choice:Name|Value" name="Display" value="Name"/>
+<property dataType="text" name="Part#" value=""/>
+<property dataType="text" name="Length" value="7*mm"/>
+<property dataType="text" name="Diameter" value="2.5*mm"/>
+<property dataType="slider" name="Transparency" value="1.0"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="yes" x="688" y="272"/>
+<point condition="1" sticky="yes" x="688" y="144"/>
+</points>
+</component>
+<component name="Capacitor (Ceramic)">
+<properties>
+<property dataType="text" name="Name" value="C1"/>
+<property dataType="text" name="Value" value=""/>
+<property dataType="choice:Name|Value" name="Display" value="Name"/>
+<property dataType="text" name="Part#" value=""/>
+<property dataType="text" name="Length" value="4*mm"/>
+<property dataType="text" name="Thickness" value="2*mm"/>
+<property dataType="slider" name="Transparency" value="1.0"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="1" sticky="yes" x="560" y="320"/>
+<point condition="1" sticky="yes" x="560" y="288"/>
+</points>
+</component>
+<component name="Text">
+<properties>
+<property dataType="text" name="Value" value="5v"/>
+<property dataType="text" name="Font" value="Tahoma"/>
+<property dataType="text" name="Size" value="14"/>
+<property dataType="text" name="Angle" value="0"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="choice:normal|bold|italic" name="Style" value="bold"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="736" y="144"/>
+</points>
+</component>
+<component name="Text">
+<properties>
+<property dataType="text" name="Value" value="GND"/>
+<property dataType="text" name="Font" value="Tahoma"/>
+<property dataType="text" name="Size" value="14"/>
+<property dataType="text" name="Angle" value="0"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="choice:normal|bold|italic" name="Style" value="bold"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="736" y="160"/>
+</points>
+</component>
+<component name="Text">
+<properties>
+<property dataType="text" name="Value" value="SCL"/>
+<property dataType="text" name="Font" value="Tahoma"/>
+<property dataType="text" name="Size" value="14"/>
+<property dataType="text" name="Angle" value="0"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="choice:normal|bold|italic" name="Style" value="bold"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="736" y="176"/>
+</points>
+</component>
+<component name="Text">
+<properties>
+<property dataType="text" name="Value" value="SDA"/>
+<property dataType="text" name="Font" value="Tahoma"/>
+<property dataType="text" name="Size" value="14"/>
+<property dataType="text" name="Angle" value="0"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="choice:normal|bold|italic" name="Style" value="bold"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="736" y="192"/>
+</points>
+</component>
+<component name="Text">
+<properties>
+<property dataType="text" name="Value" value="12v"/>
+<property dataType="text" name="Font" value="Tahoma"/>
+<property dataType="text" name="Size" value="14"/>
+<property dataType="text" name="Angle" value="0"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="choice:normal|bold|italic" name="Style" value="bold"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="736" y="304"/>
+</points>
+</component>
+<component name="Text">
+<properties>
+<property dataType="text" name="Value" value="GND"/>
+<property dataType="text" name="Font" value="Tahoma"/>
+<property dataType="text" name="Size" value="14"/>
+<property dataType="text" name="Angle" value="0"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="choice:normal|bold|italic" name="Style" value="bold"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="736" y="320"/>
+</points>
+</component>
+<component name="Text">
+<properties>
+<property dataType="text" name="Value" value="1B"/>
+<property dataType="text" name="Font" value="Tahoma"/>
+<property dataType="text" name="Size" value="14"/>
+<property dataType="text" name="Angle" value="0"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="choice:normal|bold|italic" name="Style" value="bold"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="464" y="208"/>
+</points>
+</component>
+<component name="Text">
+<properties>
+<property dataType="text" name="Value" value="1A"/>
+<property dataType="text" name="Font" value="Tahoma"/>
+<property dataType="text" name="Size" value="14"/>
+<property dataType="text" name="Angle" value="0"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="choice:normal|bold|italic" name="Style" value="bold"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="464" y="224"/>
+</points>
+</component>
+<component name="Text">
+<properties>
+<property dataType="text" name="Value" value="2A"/>
+<property dataType="text" name="Font" value="Tahoma"/>
+<property dataType="text" name="Size" value="14"/>
+<property dataType="text" name="Angle" value="0"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="choice:normal|bold|italic" name="Style" value="bold"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="464" y="240"/>
+</points>
+</component>
+<component name="Text">
+<properties>
+<property dataType="text" name="Value" value="2B"/>
+<property dataType="text" name="Font" value="Tahoma"/>
+<property dataType="text" name="Size" value="14"/>
+<property dataType="text" name="Angle" value="0"/>
+<property dataType="color" name="Color" value="000000"/>
+<property dataType="choice:normal|bold|italic" name="Style" value="bold"/>
+<property dataType="hidden" name="Group" value=""/>
+</properties>
+<points>
+<point condition="-1" sticky="no" x="464" y="256"/>
+</points>
+</component>
+</layout>
